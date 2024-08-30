@@ -1,4 +1,19 @@
-# Digital Skill Fair 30 - Data Science - Titanic
+# Project Portfolio Digital Skill Fair 30 - Data Science - Titanic
 
 # Dataset Titanic - Machine Learning from Disaster
-Dataset Titanic merupakan salah satu dataset paling terkenal dalam dunia machine learning dan data science. Dataset ini berisi informasi tentang penumpang kapal RMS Titanic yang tenggelam pada pelayaran perdananya pada tanggal 15 April 1912. Titanic adalah kapal penumpang terbesar pada masanya dan dikenal sebagai "kapal yang tidak bisa tenggelam." Namun, tragedi terjadi ketika kapal tersebut menabrak gunung es dan menyebabkan lebih dari 1.500 orang kehilangan nyawa.
+The Titanic dataset is one of the most famous datasets in the world of machine learning and data science. This dataset contains information about the passengers of the RMS Titanic ship that sank on its maiden voyage on April 15, 1912. The Titanic was the largest passenger ship of its time and was known as the "unsinkable ship." However, tragedy struck when the ship hit an iceberg and caused more than 1,500 people to lose their lives.
+
+You can download this dataset at the link : https://www.kaggle.com/competitions/titanic/overview
+
+# Goal
+predicting factors that affect the safety of Titanic passengers. And evaluating and comparing the four types of algorithms, which algorithm is better between Random Forest, Logistic Regression, SVM, KNN to predict the Titanic dataset
+
+
+# Requirement
+Library:
+1. numpy
+2. pandas
+3. os
+4. seaborn
+5. matplotlib
+6. sklearn
